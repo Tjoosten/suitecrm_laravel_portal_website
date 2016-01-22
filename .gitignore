@@ -1,0 +1,5 @@
+/vendor
+/node_modules
+/bootstrap/compiled.php
+composer.lock
+.env
